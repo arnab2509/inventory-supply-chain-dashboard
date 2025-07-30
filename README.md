@@ -1,4 +1,3 @@
-﻿# inventory-supply-chain-dashboard
 # 📦 Inventory & Supply Chain Dashboard
 
 An interactive Power BI dashboard for optimizing inventory and supply chain operations using **ABC/XYZ segmentation**, **demand forecasting**, and **logistics performance metrics**.
@@ -26,13 +25,13 @@ This project visualizes and analyzes supply chain performance using real-world i
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Image](Inventory%20%26%20Supply%20Chain%20Analysis/Dashbord/Dashbord_image.png)
+![Dashboard Image](https://github.com/arnab2509/inventory-supply-chain-dashboard/blob/main/Dashbord/Dashbord_image.png?raw=true)
 
 ---
 
 ## 🎥 Demo Video
 
-▶️ [Click to watch the dashboard walkthrough](Inventory%20%26%20Supply%20Chain%20Analysis/Dashbord/Dashbord_video.mp4)
+▶️ [Click to watch the dashboard walkthrough](https://github.com/arnab2509/inventory-supply-chain-dashboard/blob/main/Dashbord/Dashbord_video.mp4)
 
 ---
 
@@ -64,7 +63,12 @@ This project visualizes and analyzes supply chain performance using real-world i
 
 ---
 
-📧 Contact
-Arnab Mondal
-📧 arnabmondal2509@gmail.com
-🔗 LinkedIn | Portfolio
+## 📬 Contact
+
+- 🌐 Portfolio: [arnab2509.github.io](https://arnab2509.github.io/)
+- 🔗 LinkedIn: [linkedin.com/in/arnab2509](https://www.linkedin.com/in/arnab2509/)
+- 📧 Email: [arnabmondal2509@gmail.com](mailto:arnabmondal2509@gmail.com)
+
+---
+
+
